@@ -12,16 +12,16 @@
 
 In this section, I provide a solid introduction to JavaScript and cover the following topics:
 
-- Introduction to JavaScript 📚
-- Introduction to JavaScript - 2 🚀
-- Introduction to Coercion 🎯
+- [Introduction to JavaScript](https://github.com/arvindpndit/JavaScript/blob/master/01%20Intro%20to%20JS/01%20Intro%20to%20JS/Notes/intro-to-js-notes.md) 📚
+- [Introduction to JavaScript - 2](https://github.com/arvindpndit/JavaScript/blob/master/01%20Intro%20to%20JS/02%20Intro%20to%20JS-2/Notes/intro-to-js-notes-2.md) 🚀
+- [Introduction to Coercion](https://github.com/arvindpndit/JavaScript/tree/master/01%20Intro%20to%20JS/03%20Coercion/Notes) 🎯
 
 ## Advanced JavaScript 🔥
 
 The Advanced JavaScript section delves deeper into JavaScript concepts and covers the following topics:
 
-- Coercion - Revision 🔁
-- Coercion - ToBoolean and Equality Operators ✅
+- [Coercion - Revision](https://github.com/arvindpndit/JavaScript/tree/master/01%20Intro%20to%20JS/03%20Coercion/Notes) 🔁
+- [Coercion - ToBoolean and Equality Operators](https://github.com/arvindpndit/JavaScript/blob/master/02%20Advance%20JS/05%20ToBoolean%20%26%20Strict%20Equality/Notes/ToBoolean_strict_operator.md) ✅
 - Abstract equality, NaN, and Special Types ❓
 - Scopes 🌐
 - Scopes 2 🌍
