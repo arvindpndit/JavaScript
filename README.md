@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
-1. [Introduction to JavaScript](#introduction-to-javascript)
-2. [Advanced JavaScript](#advanced-javascript)
-3. [Async JavaScript](#async-javascript)
+1. Introduction to JavaScript
+2. Advanced JavaScript
+3. Async JavaScript
 
 ## Introduction to JavaScript 🌟
 
@@ -22,10 +22,10 @@ The Advanced JavaScript section delves deeper into JavaScript concepts and cover
 
 - [Coercion - Revision](https://github.com/arvindpndit/JavaScript/tree/master/01%20Intro%20to%20JS/03%20Coercion/Notes) 🔁
 - [Coercion - ToBoolean and Equality Operators](https://github.com/arvindpndit/JavaScript/blob/master/02%20Advance%20JS/05%20ToBoolean%20%26%20Strict%20Equality/Notes/ToBoolean_strict_operator.md) ✅
-- Abstract equality, NaN, and Special Types ❓
-- Scopes 🌐
-- Scopes 2 🌍
-- Function Expressions 💡
+- [Abstract equality, NaN, and Special Types](https://github.com/arvindpndit/JavaScript/blob/master/02%20Advance%20JS/06%20Abstract%20equality%2C%20NaN%2C%20Special%20Types/Notes/Abstract_operator_NaN.md) ❓
+- [Scopes](https://github.com/arvindpndit/JavaScript/blob/master/02%20Advance%20JS/07%20Scopes/Notes/Scope.md) 🌐
+- [Scopes 2](https://github.com/arvindpndit/JavaScript/blob/master/02%20Advance%20JS/08%20Scopes%202/Notes/scopes2.md) 🌍
+- [Function Expressions](https://github.com/arvindpndit/JavaScript/blob/master/02%20Advance%20JS/09%20Function%20Expression/Notes/function_expression.md) 💡
 - Closures And Intro to Callbacks 🧩
 - Promises And Callbacks ⚡
 - Async Nature of JS ⏰
