@@ -1,4 +1,4 @@
-# Closures
+# Closures and Intro to Callbacks
 
 This README.md file provides an overview of closures and their relation to special functions like `setTimeout`, `setInterval`, and `.map()`. Understanding closures requires familiarity with these functions and concepts. Let's dive into each of them.
 
