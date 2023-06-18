@@ -26,7 +26,7 @@ The Advanced JavaScript section delves deeper into JavaScript concepts and cover
 - [Scopes](https://github.com/arvindpndit/JavaScript/blob/master/02%20Advance%20JS/07%20Scopes/Notes/Scope.md) 🌐
 - [Scopes 2](https://github.com/arvindpndit/JavaScript/blob/master/02%20Advance%20JS/08%20Scopes%202/Notes/scopes2.md) 🌍
 - [Function Expressions](https://github.com/arvindpndit/JavaScript/blob/master/02%20Advance%20JS/09%20Function%20Expression/Notes/function_expression.md) 💡
-- Closures And Intro to Callbacks 🧩
+- [Closures And Intro to Callbacks](https://github.com/arvindpndit/JavaScript/blob/master/02%20Advance%20JS/10%20Closures%20and%20Intro%20to%20Callbacks/Notes/closure.md) 🧩
 - Promises And Callbacks ⚡
 - Async Nature of JS ⏰
 
