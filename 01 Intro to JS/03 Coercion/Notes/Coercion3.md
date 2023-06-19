@@ -116,11 +116,10 @@ console.log(
 // Output: 15
 // The rval is an object, so it undergoes the ToPrimitive abstract operation.
 // Since the hint is 'number', valueOf and toString are called.
-// valueOf returns 8, which is a
+// valueOf returns 8, which is a non object.
+// 7 + 8 = 15
 
-non -
-  object.console // 7 + 8 = 15
-    .log(
+console.log(
       "arvind" +
         {
           a: 10,
